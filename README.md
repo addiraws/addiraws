@@ -1,4 +1,4 @@
-- Moved to [](https://github.com/addiraw) new account
+-  [Moved to new account](https://github.com/addiraw) 
 - 👋 Hi, I’m @addiraws
 - 👀 I’m interested in 
 - 🌱 I’m currently learning flutter app development
